@@ -25,7 +25,7 @@ The analysis of the election shows that:
 - The winner of the election was Diana DeGette, who received 73.8% of the vote and 272,892 votes. 
 
 ## Challenge  Overview
-The purpose of the the election audit was to assist Tom,  a Colorado Board of Elections employee, with an election audit of the tabulated results for a US congressional precinct in Colorado. This task is ususally done in Excel. However, Tom's manager has asked if there's a way to automate the process using python. If the successfully performed with Python, the program code will be used to audit not only other congressional districts but also senatorial districts and local elections. The task is to generate a vote count report to certify this U.S. congressional race.
+Tom, the client, asked for assistnace with an election audit of the tabulated results for a US congressional precinct in Colorado. The goal of the audit was to to generate a vote count report to certify a U.S. congressional race. This audit is ususally done in Excel. However, Tom's manager asked if there's a way to automate the process using Python. If the audit is successfully performed with Python, the program code will be used to audit other congressional and senatorial districts. The code would also be used for reporting local elections. 
 
 #### Voting Methods
 There were three primary voting methods for the election, which were as follows:
@@ -43,8 +43,14 @@ Findings were requested for:
 ## Election Audit Results
 
 ## Challenge Summary
-The project files and python code was stored in a GitHub repository. Some of the benefits of using the repository for the project were:
+The project files and python code were stored in a GitHub repository. Some of the benefits of using the repository for projects are:
 - Easy access by multiple contributors.
 - Versioning, to prevent files and scripts from accidently being overwritten. 
 - Security to prevent others from corrupting the project files. 
- 
+The python script for the audit was written and run in an application called Visual Studio (VS) Code. 
+Some of the advantages of using VS code instead of the Python interpreter are:
+- Errors are easy to spot and correct.
+- Views of editor and terminal can be easily configured.
+- Multiple tips and autocomplete functions are available.
+- The VS Code test editor provides useres with notification of syntax errors and misspellings.
+- The application is easy to integrate with GitHub.
