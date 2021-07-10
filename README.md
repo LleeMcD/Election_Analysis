@@ -25,7 +25,7 @@ The analysis of the election shows that:
 - The winner of the election was Diana DeGette, who received 73.8% of the vote and 272,892 votes. 
 
 ## Challenge  Overview
-Tom, the client, asked for assistance with an election audit of the tabulated results for a US congressional precinct in Colorado. The goal of the audit was to to generate a vote count report to certify the race. This audit is ususally done in Excel. However, Seth (Tom's manager) asked if there was a way to automate the process using Python. Seth clarified that if the audit was successfully performed with Python, the program code would be used to audit other congressional and senatorial districts. The code would also be used for reporting local elections. 
+Tom, the client, asked for assistance with an election audit of the tabulated results for a US congressional precinct in Colorado. The goal of the audit was to to generate a vote count report to certify the race. This audit is ususally done in Excel. However, Seth (Tom's manager) asked if there was a way to automate the process using Python. Seth clarified that if the audit was successfully performed with Python, the program code could be used to audit other congressional and senatorial districts. The code would also be used for reporting local elections. 
 
 #### Voting Methods
 There were three primary voting methods for the election, which were as follows:
@@ -44,7 +44,8 @@ Findings were requested for:
 - The county with the highest turnout.
 
 ## Election Audit Results
-The election audit results were as follows:
+The election audit findings for bullet points 1-4 are listed in the Summary section above. The voting results at the county level were:
+-
 
 
 ## Challenge Summary
