@@ -63,8 +63,6 @@ Some of the advantages of using VS code instead of the Python interpreter are:
 - The VS Code test editor provides users with notification of syntax errors and misspellings.
 - The application is easy to integrate with GitHub.
 
-The Python code for the report is easy to reuse and can be applied to other election audits by basically switching out the variables and modifying some of the with and if statements, loops and f strings.
-
 The Python algorithm for the report included:
 - Lists and dictionaries with indexes
 - Decision, print, repetition(loop) statements
@@ -73,6 +71,9 @@ The Python algorithm for the report included:
 - Single and multi-line f strings
 - Dependencies for csv and os 
 - Pseudo code to explain function and purpose 
+
+## Recommendations
+The Python code for the report is easy to reuse and can be applied to other election audits by basically switching out the variables and modifying some of the with and if statements, loops and f strings. It is recommended that GitHub and VS code applications be used with future code modifications for ease of use.
 
 The code scripts used for this project are in the attached Python files titled:
 - PyPoll_Election_Outcome_by_Candidate.py 
