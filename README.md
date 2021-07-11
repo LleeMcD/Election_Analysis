@@ -68,7 +68,8 @@ The Python algorithm for the report included:
 - Single and multi-line f strings
 - Dependencies for csv and os 
 - Pseudo code to explain function and purpose 
-The code scripts used for this project in the attached Python files.
+
+The code scripts used for this project in the attached Python files titled PyPoll_Election_Outcome_by_Candidate.py and 
 
 ## Resources
 - Data Source: election_results.csv
