@@ -79,7 +79,7 @@ Two examples of the code scripts that were used for this audit project are in th
 - PyPoll_Election_Outcome_by_Candidate.py 
   - This file contains the original code for the audit.   
 - PyPoll_Challenge.py.
-  - This file contains the modified code that was used to retrieve the addtional voting data at the county level  
+  - This file contains the modified code that was used to retrieve the addtional voting data at the county level.  
 
 ## Resources
 - Data Source: election_results.csv
