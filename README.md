@@ -75,7 +75,7 @@ The Python algorithm for the report included:
 ## Recommendations
 It is recommended that the Colorado Elections Commission repurpose the Python scripts that were used for the audit of the November 2018 election.  The Python code is easy to reuse and can be applied to other election audits by basically switching out the variables and modifying some of the with and if statements, loops and f strings. It is recommended that GitHub and VS code applications be used with future code modifications for ease of use. Questions and/or concerns about the code sets should be directed to LleeMcD via cell number (608)999-9999 or via email to LleeMcD.Fictitious@google.com.
 
-Tow examples of the code scripts that were used for this project are in the attached Python files titled:
+Two examples of the code scripts that were used for this audit project are in the attached Python files titled:
 - PyPoll_Election_Outcome_by_Candidate.py 
   - This file contains the original code for the audit.   
 - PyPoll_Challenge.py.
