@@ -1,6 +1,6 @@
 ## Challenge  Overview
 #### Project Requirements
-The clients, Tom and Seth, asked for assistance with an election audit of the tabulated results for a US congressional precinct in Colorado. The goal of the audit was to generate a vote count report to certify the race. This audit is usually done in Excel. However, Seth asked if there was a way to automate the process by using Python. Seth clarified that if the audit was successfully performed with Python, the code could be used to audit other congressional and senatorial districts. The code would also be used for reporting local elections. 
+The clients, Tom and Seth, asked for assistance with an election audit of the tabulated results for a United States congressional precinct in Colorado. The goal of the audit was to generate a vote count report to certify the race. This audit is usually done in Excel. However, Seth asked if there was a way to automate the process by using Python. Seth clarified that if the audit was successfully performed with Python, the code could be used to audit other congressional and senatorial districts. The code would also be used for reporting local elections. 
 
 #### Voting Methods
 There were three primary voting methods for the election, which were as follows:
