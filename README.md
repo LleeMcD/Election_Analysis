@@ -1,6 +1,6 @@
 ## Challenge  Overview
 #### Project Requirements
-The clients, Tom and Seth, asked for assistance with an election audit of the tabulated results for a United States congressional precinct in Colorado. The goal of the audit was to generate a vote count report to certify the race. This audit is usually done in Excel. However, Seth asked if there was a way to automate the process by using Python. Seth clarified that if the audit was successfully performed with Python, the code could be used to audit other congressional and senatorial districts. The code would also be used for reporting local elections. 
+Clients from the Colorado Elections Commission, Tom and Seth, asked for assistance with an election audit of the tabulated results for a United States congressional precinct in Colorado. The goal of the audit was to generate a vote count report to certify the race. This audit is usually done in Excel. However, Seth asked if there was a way to automate the process by using Python. Seth clarified that if the audit was successfully performed with Python, the code could be used to audit other congressional and senatorial districts. The code would also be used for reporting local elections. 
 
 #### Voting Methods
 There were three primary voting methods for the election, which were as follows:
@@ -73,9 +73,9 @@ The Python algorithm for the report included:
 - Pseudo code to explain function and purpose 
 
 ## Recommendations
-The Python code for the report is easy to reuse and can be applied to other election audits by basically switching out the variables and modifying some of the with and if statements, loops and f strings. It is recommended that GitHub and VS code applications be used with future code modifications for ease of use.
+It is recommended that the Colorado Elections Commission repurpose the Python scripts that were used for the audit of the November 2018 election.  The Python code is easy to reuse and can be applied to other election audits by basically switching out the variables and modifying some of the with and if statements, loops and f strings. It is recommended that GitHub and VS code applications be used with future code modifications for ease of use. Questions and/or concerns about the code sets should be directed to LleeMcD via cell number (608)999-9999 or via email to LleeMcD.Fictitious@google.com.
 
-The code scripts used for this project are in the attached Python files titled:
+Tow examples of the code scripts that were used for this project are in the attached Python files titled:
 - PyPoll_Election_Outcome_by_Candidate.py 
   - This file contains the original code for the project.   
 - PyPoll_Challenge.py.
