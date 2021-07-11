@@ -1,5 +1,5 @@
 ## Challenge  Overview 
-The clients, Tom and Seth, asked for assistance with an election audit of the tabulated results for a US congressional precinct in Colorado. The goal of the audit was to generate a vote count report to certify the race. This audit is usually done in Excel. However, Seth (Tom's manager) asked if there was a way to automate the process by using Python. Seth clarified that if the audit was successfully performed with Python, the code could be used to audit other congressional and senatorial districts. The code would also be used for reporting local elections. 
+The clients, Tom and Seth, asked for assistance with an election audit of the tabulated results for a US congressional precinct in Colorado. The goal of the audit was to generate a vote count report to certify the race. This audit is usually done in Excel. However, Seth asked if there was a way to automate the process by using Python. Seth clarified that if the audit was successfully performed with Python, the code could be used to audit other congressional and senatorial districts. The code would also be used for reporting local elections. 
 
 #### Voting Methods
 There were three primary voting methods for the election, which were as follows:
@@ -43,8 +43,10 @@ The voting results at the county level were:
 - Jefferson received 10.5% of the total with 38,855 votes
 - The county with the highest voter turnout was Denver, with 306,055 votes.
 
+A screen shot of the terminal printout of the election results is below for reference.
 
-
+###### November 2018 Election Results for the 1st Congressional District of Colorado 
+![Election Results for the 1st Congressional District of Colorado](https://github.com/LleeMcD/Election_Analysis/blob/main/PyPoll_Challenge_Image.png)
 ## Challenge Summary
 #### Applications and Algorithm Overview
 The original Python algorithm returned information specific to each candidate. The script was then modified at the request of the client, to retun additional details at the county level. The project files and python code were stored in a GitHub repository for ease of use. Some of the benefits of using the repository for coding projects are:
@@ -61,9 +63,10 @@ Some of the advantages of using VS code instead of the Python interpreter are:
 - The application is easy to integrate with GitHub.
 
 The Python code for the report is easy to reuse and can be applied to other election audits by basically switching out the variables and modifying some of the with and if statements, loops and f strings.
+
 The Python algorithm for the report included:
 - Lists and dictionaries with indexes
-- Decision, print, repetition(loop)statements
+- Decision, print, repetition(loop) statements
 - If and with statements
 - Membership and logical operators
 - Single and multi-line f strings
