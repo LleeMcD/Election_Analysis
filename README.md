@@ -7,7 +7,8 @@ There were three primary voting methods for the election, which were as follows:
 - Mail in ballots, which are typically counted in the central office.
 - Punch cards, which are collected and fed into a machine that tabulates vote totals and sends the results to the central office.
 - Direct recording electronic (DRE) counting machines, which are sent to the central office and read by a computer.
-All of the voting data was collected, combined and stored in an Excel csv file.
+
+The voting data was collected, combined and stored in an Excel csv file.
 
 Seth and Tom initially requested audit results for the election candidates. However, after the findings were reviewed they realized that more data was necessary and asked that the county level information be added to the report. The code for the initial report was then repurposed to include the county data.
 
