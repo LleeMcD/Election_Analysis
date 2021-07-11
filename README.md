@@ -77,7 +77,7 @@ It is recommended that the Colorado Elections Commission repurpose the Python sc
 
 Tow examples of the code scripts that were used for this project are in the attached Python files titled:
 - PyPoll_Election_Outcome_by_Candidate.py 
-  - This file contains the original code for the project.   
+  - This file contains the original code for the audit.   
 - PyPoll_Challenge.py.
   - This file contains the modified code that was used to retrieve the addtional voting data at the county level  
 
