@@ -50,7 +50,7 @@ A screen shot of the terminal printout of the election results is below for refe
 ![Election Results for the 1st Congressional District of Colorado](https://github.com/LleeMcD/Election_Analysis/blob/main/PyPoll_Challenge_Image.png)
 ## Challenge Summary
 #### Applications and Algorithm Overview
-The original Python algorithm returned information specific to each candidate. The script was then modified at the request of the clients, to retun additional details at the county level. The project files and python code were stored in a GitHub repository for ease of use. Some of the benefits of using the repository for coding projects are:
+The original Python algorithm returned information specific to each candidate. The script was then modified at the request of the clients, to return additional details at the county level. The project files and python code were stored in a GitHub repository for ease of use. Some of the benefits of using the repository for coding projects are:
 - Easy access by multiple contributors.
 - Versioning, to prevent files and scripts from accidently being overwritten. 
 - Security to prevent others from corrupting the project files. 
