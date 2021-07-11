@@ -44,9 +44,8 @@ The voting results at the county level were:
 - The county with the highest voter turnout was Denver, with 306,055 votes.
 
 ## Challenge Summary
-#### Applications and Alogorithm Overview
-The original Python algorithm returned information specific to each candidate. The script was then modified at the request of the client, to retun additional details at the county level. The Python code for each report is in appendix A at the end of this summary.
-The project files and python code were stored in a GitHub repository for ease of use. Some of the benefits of using the repository for projects are:
+#### Applications and Algorithm Overview
+The original Python algorithm returned information specific to each candidate. The script was then modified at the request of the client, to retun additional details at the county level. The project files and python code were stored in a GitHub repository for ease of use. Some of the benefits of using the repository for coding projects are:
 - Easy access by multiple contributors.
 - Versioning, to prevent files and scripts from accidently being overwritten. 
 - Security to prevent others from corrupting the project files. 
@@ -69,7 +68,11 @@ The Python algorithm for the report included:
 - Dependencies for csv and os 
 - Pseudo code to explain function and purpose 
 
-The code scripts used for this project in the attached Python files titled PyPoll_Election_Outcome_by_Candidate.py and 
+The code scripts used for this project are in the attached Python files titled:
+- PyPoll_Election_Outcome_by_Candidate.py 
+  - This file contains the original code for the project.   
+- PyPoll_Challenge.py.
+  - This file contains the modified code that was used to retrieve the addtional voting data at the county level  
 
 ## Resources
 - Data Source: election_results.csv
